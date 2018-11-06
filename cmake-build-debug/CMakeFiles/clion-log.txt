@@ -1,0 +1,12 @@
+"/Users/Olerdrive/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Olerdrive/CLionProjects/GraphTask
+-- Boost version: 1.67.0
+-- Found the following Boost libraries:
+--   graph
+--   thread
+--   chrono
+--   system
+--   date_time
+--   atomic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Olerdrive/CLionProjects/GraphTask/cmake-build-debug
